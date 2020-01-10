@@ -1,7 +1,8 @@
-<a href="https://githubsfdeploy.herokuapp.com?owner=elk-gh&repo=SmartFactory-for-Force.com">
+<a href="https://githubsfdeploy.herokuapp.com?owner=elk-gh&repo=SmartFactory-for-Forcecom">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
+==============================
 Salesforce Test Data Generator
 ==============================
 
