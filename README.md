@@ -1,4 +1,4 @@
-<a href="https://githubsfdeploy.herokuapp.com?owner=mbotos&repo=SmartFactory-for-Force.com">
+<a href="https://githubsfdeploy.herokuapp.com?owner=elk-gh&repo=SmartFactory-for-Force.com">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
